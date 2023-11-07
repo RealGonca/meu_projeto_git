@@ -1,0 +1,1 @@
+Crie no 2º computador um novo ficheiro ("ficheiro5.txt") onde deve inserir algum texto
